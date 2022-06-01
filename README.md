@@ -1,6 +1,6 @@
 <img align="left" src="images/avatar.png">
 
-### Hi there 👋 I'm Nacho!
+# Hi there 👋 I'm Nacho!
 
 ✨ I'm a full stack developer and software engineering student at UNCPBA, Argentina.  
 🚀 I like to create apps and solve problems.  
