@@ -12,7 +12,7 @@
 
 ## 🔨𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 - [Improratoria](https://improratoria.netlify.app/) - The first app to help MUN participants practice their public speaking and knowledge of international politics
-
+- [Rocko](https://rocko.app/) - A virtual Jukebox that works with Spotify
 ## 👨‍💻𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗮𝗻𝗱 𝘁𝗼𝗼𝗹𝘀
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
