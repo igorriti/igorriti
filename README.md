@@ -4,7 +4,7 @@
 
 ✨ I'm a full stack developer and software engineering student at UNCPBA, Argentina.  
 🚀 I like to create apps and solve problems.  
-💻 My preferred stack is MERN but I am also expanding my horizons with Next, Java, Postgresql and Go!  
+💻 My preferred stack is MERN but I am also expanding my horizons with Next, Java, Postgresql and Python!  
 <br>
 <br>
 <br>
