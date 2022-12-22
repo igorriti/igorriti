@@ -2,9 +2,9 @@
 
 # Hi there 👋 I'm Nacho!
 
-✨ I'm a full stack developer and software engineering student at UNCPBA, Argentina.  
+✨ I'm a Software developer and software engineering student at UNCPBA, Argentina.  
 🚀 I like to create apps and solve problems.  
-💻 My preferred stack is MERN but I am also expanding my horizons with Next, Java, Postgresql and Python!  
+💻 My preferred stack is MERN and Python but I am also expanding my horizons with Next, Java and Postgresql!  
 <br>
 <br>
 <br>
