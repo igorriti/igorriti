@@ -11,7 +11,8 @@
 <br>
 <br>
 
-## 🔨𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## 🔨My favorite apps
+- [Que propones?](https://quepropones.com.ar) - A platform to chat with an AI agent that replicates each presidential candidate to know more about their electoral proposals
 - LSA + IA -  Argentine Sign Language translator in real time
 - [Soteira](https://twitter.com/Nacho_gorriti_/status/1617333558187806720) - Chrome extension to protect streamer from being banned
 - [Improratoria](https://improratoria.netlify.app/) - The first app to help MUN participants practice their public speaking and knowledge of international politics
