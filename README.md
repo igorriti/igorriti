@@ -11,7 +11,7 @@
 <br>
 <br>
 
-## 🔨Building cool things on (Flode Labs](https://twitter.com/flodelabs)
+## 🔨Building cool things on [Flode Labs](https://twitter.com/flodelabs)
 ## 👨‍💻𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗮𝗻𝗱 𝘁𝗼𝗼𝗹𝘀
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
