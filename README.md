@@ -4,19 +4,14 @@
 
 ✨ I'm a Software developer and software engineering student at UNCPBA, Argentina.  
 🚀 I like to create apps and solve problems.  
-💻 My preferred stack is MERN and Python. Also nowadays I use NextJS a lot.
+💻 Constanly mixing Python with lot of other tools to develop different MVPs
 <br>
 <br>
 <br>
 <br>
 <br>
 
-## 🔨My favorite apps
-- [Que propones?](https://quepropones.com.ar) - A platform to chat with an AI agent that replicates each presidential candidate to know more about their electoral proposals
-- LSA + IA -  Argentine Sign Language translator in real time
-- [Soteira](https://twitter.com/Nacho_gorriti_/status/1617333558187806720) - Chrome extension to protect streamer from being banned
-- [Improratoria](https://improratoria.netlify.app/) - The first app to help MUN participants practice their public speaking and knowledge of international politics
-- [Rocko](https://rocko.app/) - A virtual Jukebox that works with Spotify
+## 🔨Building cool things on (Flode Labs](https://twitter.com/flodelabs)
 ## 👨‍💻𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗮𝗻𝗱 𝘁𝗼𝗼𝗹𝘀
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
