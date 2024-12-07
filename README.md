@@ -6,7 +6,7 @@
     <td style="width: 50%; border: none;">
       <h1>Hi there 👋 I'm Nacho!</h1>
       <ul>
-        <li>✨ I'm a software developer and software engineering student at UNCPBA, Argentina.</li>
+        <li>✨ I'm a software developer with a bachelor degree in computer sciences</li>
         <li>🚀 I love creating apps and solving problems.</li>
         <li>💻 Constantly mixing Python with a lot of other tools to develop different MVPs.</li>
       </ul>
